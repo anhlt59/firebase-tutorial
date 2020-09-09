@@ -1,4 +1,4 @@
-# AWS
+# Firebase tutorial
 author [AnhLT59](https://github.com/anhlt59)
 
 ## note
@@ -19,7 +19,7 @@ $ pip install -r requirements.txt
 
 - run main.py
 ```sh
-$ python main.py > aws.log
+$ python main.py > python.log
 ```
 
 License
